@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class aaaa : MonoBehaviour
+public class aspect : MonoBehaviour
 {
     public Camera main;
     public float a;
